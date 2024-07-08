@@ -64,10 +64,6 @@ This is a simple calculator application built using Java Swing. It supports basi
     ```
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspiration from various online tutorials and resources on Java Swing.
